@@ -10,9 +10,9 @@
   ./configure && make
   ```
   
-### 틀 삭제 (세션 종료 안하고 나가기)
+### 세션 종료 안하고 나가기
 
-`(ctrl + b) d`
+`(Ctrl + b) d`
 
 ### 세션 다시 시작하기 
 
@@ -34,5 +34,9 @@ ___
 ### 틀끼리 이동하기
 
 `(Ctrl + b) 방향키 `
+
+### 틀 삭제
+
+`Ctrl + b d`
 
 출처: http://seulcode.tistory.com/144 [seulcoding]
